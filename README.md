@@ -1,4 +1,4 @@
-# Skillora
+# Skillora --- Landing page
 
 **Build Skills. Shape Your Future.**
 
